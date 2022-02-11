@@ -1,2 +1,2 @@
-## CNN-Pytorch
-# Cifar-10
+# CNN-Pytorch
+## Cifar-10
